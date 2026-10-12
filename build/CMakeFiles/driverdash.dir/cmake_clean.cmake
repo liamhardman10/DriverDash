@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_driverdash_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_DriverDash.cpp"
+  ".rcc/qmlcache/driverdash_qml_Main_qml.cpp"
+  ".rcc/qmlcache/driverdash_qml_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/driverdash_qmlcache_loader.cpp"
+  "CMakeFiles/driverdash.dir/link.d"
+  "CMakeFiles/driverdash_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/driverdash_autogen.dir/ParseCache.txt"
+  "driverdash_autogen"
+  "CMakeFiles/driverdash.dir/build/.qt/rcc/qrc_driverdash_raw_qml_0.cpp.o"
+  "CMakeFiles/driverdash.dir/build/.qt/rcc/qrc_driverdash_raw_qml_0.cpp.o.d"
+  "CMakeFiles/driverdash.dir/build/.qt/rcc/qrc_qmake_DriverDash.cpp.o"
+  "CMakeFiles/driverdash.dir/build/.qt/rcc/qrc_qmake_DriverDash.cpp.o.d"
+  "CMakeFiles/driverdash.dir/build/.rcc/qmlcache/driverdash_qml_Main_qml.cpp.o"
+  "CMakeFiles/driverdash.dir/build/.rcc/qmlcache/driverdash_qml_Main_qml.cpp.o.d"
+  "CMakeFiles/driverdash.dir/build/.rcc/qmlcache/driverdash_qmlcache_loader.cpp.o"
+  "CMakeFiles/driverdash.dir/build/.rcc/qmlcache/driverdash_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/driverdash.dir/driverdash_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/driverdash.dir/driverdash_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/driverdash.dir/driverdash_qmltyperegistrations.cpp.o"
+  "CMakeFiles/driverdash.dir/driverdash_qmltyperegistrations.cpp.o.d"
+  "CMakeFiles/driverdash.dir/src/AppController.cpp.o"
+  "CMakeFiles/driverdash.dir/src/AppController.cpp.o.d"
+  "CMakeFiles/driverdash.dir/src/main.cpp.o"
+  "CMakeFiles/driverdash.dir/src/main.cpp.o.d"
+  "DriverDash/driverdash.qmltypes"
+  "driverdash"
+  "driverdash.pdb"
+  "driverdash_qmltyperegistrations.cpp"
+  "meta_types/driverdash_json_file_list.txt"
+  "meta_types/driverdash_json_file_list.txt.timestamp"
+  "meta_types/qt6driverdash_metatypes.json"
+  "meta_types/qt6driverdash_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/driverdash.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/lxmh/Projects/DriverDash/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

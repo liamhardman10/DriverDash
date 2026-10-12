@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/lxmh/Projects/DriverDash/build",
+  "command": "/usr/bin/c++ -DDRIVERDASH_PLATFORM_DESKTOP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -I/home/lxmh/Projects/DriverDash/build/driverdash_autogen/include -I/home/lxmh/Projects/DriverDash -I/home/lxmh/Projects/DriverDash/src -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtQuickControls2 -g -std=c++20 -o CMakeFiles/driverdash.dir/driverdash_autogen/mocs_compilation.cpp.o -c /home/lxmh/Projects/DriverDash/build/driverdash_autogen/mocs_compilation.cpp",
+  "file": "/home/lxmh/Projects/DriverDash/build/driverdash_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/driverdash.dir/driverdash_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/lxmh/Projects/DriverDash/build",
+  "command": "/usr/bin/c++ -DDRIVERDASH_PLATFORM_DESKTOP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -I/home/lxmh/Projects/DriverDash/build/driverdash_autogen/include -I/home/lxmh/Projects/DriverDash -I/home/lxmh/Projects/DriverDash/src -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtQuickControls2 -g -std=c++20 -o CMakeFiles/driverdash.dir/src/main.cpp.o -c /home/lxmh/Projects/DriverDash/src/main.cpp",
+  "file": "/home/lxmh/Projects/DriverDash/src/main.cpp",
+  "output": "CMakeFiles/driverdash.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/lxmh/Projects/DriverDash/build",
+  "command": "/usr/bin/c++ -DDRIVERDASH_PLATFORM_DESKTOP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -I/home/lxmh/Projects/DriverDash/build/driverdash_autogen/include -I/home/lxmh/Projects/DriverDash -I/home/lxmh/Projects/DriverDash/src -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtQuickControls2 -g -std=c++20 -o CMakeFiles/driverdash.dir/src/AppController.cpp.o -c /home/lxmh/Projects/DriverDash/src/AppController.cpp",
+  "file": "/home/lxmh/Projects/DriverDash/src/AppController.cpp",
+  "output": "CMakeFiles/driverdash.dir/src/AppController.cpp.o"
+},
+{
+  "directory": "/home/lxmh/Projects/DriverDash/build",
+  "command": "/usr/bin/c++ -DDRIVERDASH_PLATFORM_DESKTOP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -I/home/lxmh/Projects/DriverDash/build/driverdash_autogen/include -I/home/lxmh/Projects/DriverDash -I/home/lxmh/Projects/DriverDash/src -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtQuickControls2 -g -std=c++20 -o CMakeFiles/driverdash.dir/driverdash_qmltyperegistrations.cpp.o -c /home/lxmh/Projects/DriverDash/build/driverdash_qmltyperegistrations.cpp",
+  "file": "/home/lxmh/Projects/DriverDash/build/driverdash_qmltyperegistrations.cpp",
+  "output": "CMakeFiles/driverdash.dir/driverdash_qmltyperegistrations.cpp.o"
+},
+{
+  "directory": "/home/lxmh/Projects/DriverDash/build",
+  "command": "/usr/bin/c++ -DDRIVERDASH_PLATFORM_DESKTOP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -I/home/lxmh/Projects/DriverDash/build/driverdash_autogen/include -I/home/lxmh/Projects/DriverDash -I/home/lxmh/Projects/DriverDash/src -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtQuickControls2 -g -std=c++20 -o CMakeFiles/driverdash.dir/build/.qt/rcc/qrc_qmake_DriverDash.cpp.o -c /home/lxmh/Projects/DriverDash/build/.qt/rcc/qrc_qmake_DriverDash.cpp",
+  "file": "/home/lxmh/Projects/DriverDash/build/.qt/rcc/qrc_qmake_DriverDash.cpp",
+  "output": "CMakeFiles/driverdash.dir/build/.qt/rcc/qrc_qmake_DriverDash.cpp.o"
+},
+{
+  "directory": "/home/lxmh/Projects/DriverDash/build",
+  "command": "/usr/bin/c++ -DDRIVERDASH_PLATFORM_DESKTOP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -I/home/lxmh/Projects/DriverDash/build/driverdash_autogen/include -I/home/lxmh/Projects/DriverDash -I/home/lxmh/Projects/DriverDash/src -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtQuickControls2 -g -std=c++20 -o CMakeFiles/driverdash.dir/build/.rcc/qmlcache/driverdash_qmlcache_loader.cpp.o -c /home/lxmh/Projects/DriverDash/build/.rcc/qmlcache/driverdash_qmlcache_loader.cpp",
+  "file": "/home/lxmh/Projects/DriverDash/build/.rcc/qmlcache/driverdash_qmlcache_loader.cpp",
+  "output": "CMakeFiles/driverdash.dir/build/.rcc/qmlcache/driverdash_qmlcache_loader.cpp.o"
+},
+{
+  "directory": "/home/lxmh/Projects/DriverDash/build",
+  "command": "/usr/bin/c++ -DDRIVERDASH_PLATFORM_DESKTOP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -I/home/lxmh/Projects/DriverDash/build/driverdash_autogen/include -I/home/lxmh/Projects/DriverDash -I/home/lxmh/Projects/DriverDash/src -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtQuickControls2 -g -std=c++20 -o CMakeFiles/driverdash.dir/build/.rcc/qmlcache/driverdash_qml_Main_qml.cpp.o -c /home/lxmh/Projects/DriverDash/build/.rcc/qmlcache/driverdash_qml_Main_qml.cpp",
+  "file": "/home/lxmh/Projects/DriverDash/build/.rcc/qmlcache/driverdash_qml_Main_qml.cpp",
+  "output": "CMakeFiles/driverdash.dir/build/.rcc/qmlcache/driverdash_qml_Main_qml.cpp.o"
+},
+{
+  "directory": "/home/lxmh/Projects/DriverDash/build",
+  "command": "/usr/bin/c++ -DDRIVERDASH_PLATFORM_DESKTOP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -I/home/lxmh/Projects/DriverDash/build/driverdash_autogen/include -I/home/lxmh/Projects/DriverDash -I/home/lxmh/Projects/DriverDash/src -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtQuickControls2 -g -std=c++20 -o CMakeFiles/driverdash.dir/build/.qt/rcc/qrc_driverdash_raw_qml_0.cpp.o -c /home/lxmh/Projects/DriverDash/build/.qt/rcc/qrc_driverdash_raw_qml_0.cpp",
+  "file": "/home/lxmh/Projects/DriverDash/build/.qt/rcc/qrc_driverdash_raw_qml_0.cpp",
+  "output": "CMakeFiles/driverdash.dir/build/.qt/rcc/qrc_driverdash_raw_qml_0.cpp.o"
+}
+]

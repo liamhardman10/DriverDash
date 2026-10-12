@@ -1,0 +1,6 @@
+module DriverDash
+typeinfo driverdash.qmltypes
+prefer :/qt/qml/DriverDash/
+Main 1.0 qml/Main.qml
+depends QtQuick
+

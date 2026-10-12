@@ -1,0 +1,3 @@
+[<SLASH>home<SLASH>lxmh<SLASH>Projects<SLASH>DriverDash]
+importPaths="/home/lxmh/Projects/DriverDash/build:/home/lxmh/Projects/DriverDash/build/DriverDash:/usr/lib64/qt6/qml"
+resourceFiles="/home/lxmh/Projects/DriverDash/build/.qt/rcc/qmake_DriverDash.qrc:/home/lxmh/Projects/DriverDash/build/.qt/rcc/driverdash_raw_qml_0.qrc"

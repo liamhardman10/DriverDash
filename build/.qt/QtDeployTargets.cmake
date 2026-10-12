@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_driverdash_FILE /home/lxmh/Projects/DriverDash/build/driverdash)
+set(__QT_DEPLOY_TARGET_driverdash_TYPE EXECUTABLE)

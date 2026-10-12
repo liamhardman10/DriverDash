@@ -1,0 +1,14 @@
+-rootPath
+/home/lxmh/Projects/DriverDash
+-cmake-output
+-output-file
+/home/lxmh/Projects/DriverDash/build/.qt/qml_imports/driverdash_build.cmake
+-importPath
+/home/lxmh/Projects/DriverDash/build
+-importPath
+/home/lxmh/Projects/DriverDash/build/DriverDash
+-importPath
+/usr/lib64/qt6/qml
+-qrcFiles
+/home/lxmh/Projects/DriverDash/build/.qt/rcc/qmake_DriverDash.qrc
+/home/lxmh/Projects/DriverDash/build/.qt/rcc/driverdash_raw_qml_0.qrc

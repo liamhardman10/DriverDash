@@ -1,0 +1,5 @@
+--resource
+/home/lxmh/Projects/DriverDash/build/.qt/rcc/qmake_DriverDash.qrc
+--resource
+/home/lxmh/Projects/DriverDash/build/.qt/rcc/driverdash_raw_qml_0.qrc
+/qt/qml/DriverDash/qml/Main.qml

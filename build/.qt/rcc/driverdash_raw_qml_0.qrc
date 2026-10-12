@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/DriverDash/">
+    <file alias="qml/Main.qml">/home/lxmh/Projects/DriverDash/qml/Main.qml</file>
+  </qresource>
+</RCC>
+

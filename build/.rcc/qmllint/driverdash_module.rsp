@@ -1,0 +1,14 @@
+-I
+/home/lxmh/Projects/DriverDash/build
+-I
+/home/lxmh/Projects/DriverDash/build/DriverDash
+-I
+/home/lxmh/Projects/DriverDash/build
+-I
+/usr/lib64/qt6/qml
+--resource
+/home/lxmh/Projects/DriverDash/build/.qt/rcc/qmake_DriverDash.qrc
+--resource
+/home/lxmh/Projects/DriverDash/build/.qt/rcc/driverdash_raw_qml_0.qrc
+--module
+DriverDash
